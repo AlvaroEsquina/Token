@@ -14,7 +14,7 @@ public class Token2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Culona como Sophie Rain");
+        System.out.println("Culona como Sophie Rain ");
     }
     
 }
