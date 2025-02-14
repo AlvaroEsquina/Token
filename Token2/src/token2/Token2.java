@@ -90,8 +90,11 @@ public class Token2 {
 "Y bien bellaca está diciendo que quiere a uno y to'\n" +
 "Ah, ah\n" +
 "¿Qué hora es, mi amor?");
-        }
             
+            break;
+        }
+        
+        System.out.println("ñ");
     }
     
 }
